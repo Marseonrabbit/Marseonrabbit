@@ -1,4 +1,4 @@
-<div align="center">
+
    <img src="rainy-pixel-city.png" alt="A Quiet Night in a Rainy Pixel City" width="100%" style="border-radius: 8px; margin-bottom: 20px;">
 </div>div>
 
